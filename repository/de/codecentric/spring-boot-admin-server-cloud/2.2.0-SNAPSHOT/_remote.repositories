@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 01 11:07:20 CST 2019
+spring-boot-admin-server-cloud-2.2.0-20191130.224400-187.pom>sonatype-nexus-snapshots=
+spring-boot-admin-server-cloud-2.2.0-20191130.224400-187-sources.jar>sonatype-nexus-snapshots=
+spring-boot-admin-server-cloud-2.2.0-20191130.224400-187.jar>sonatype-nexus-snapshots=
